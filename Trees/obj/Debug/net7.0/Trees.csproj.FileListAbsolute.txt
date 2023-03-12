@@ -1,0 +1,15 @@
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/bin/Debug/net7.0/Trees
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/bin/Debug/net7.0/Trees.deps.json
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/bin/Debug/net7.0/Trees.runtimeconfig.json
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/bin/Debug/net7.0/Trees.dll
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/bin/Debug/net7.0/Trees.pdb
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.csproj.AssemblyReference.cache
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.AssemblyInfoInputs.cache
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.AssemblyInfo.cs
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.csproj.CoreCompileInputs.cache
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.dll
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/refint/Trees.dll
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.pdb
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/Trees.genruntimeconfig.cache
+/Users/rexwb/Academic/Computing/C#/Trees/Trees/obj/Debug/net7.0/ref/Trees.dll
